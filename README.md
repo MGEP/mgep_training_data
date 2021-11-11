@@ -6,3 +6,4 @@ which channel is then divided into 90 equal-length meshes in high-fidelity numer
 
 ![alt text](https://github.com/MGEP/mgep_training_data/blob/main/figure_setup/mgep-openmc-modeling-1%20(1).png)
 
+![alt text](https://github.com/MGEP/mgep_training_data/blob/main/figure_setup/mgep-control-system-2.PNG)
