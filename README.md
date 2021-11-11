@@ -4,3 +4,4 @@ The input dimensions are the positions for two control rods (initiating control 
 And the output dimensions are detector signals (Helium-3 absorption rate) located at 4 different graphite channels (F, G, I and J), 
 which channel is then divided into 90 equal-length meshes in high-fidelity numerical modeling, but 13 (low spatial resoltion) or 38 eqal-length meshes (high spatial resoltion) in experimental measuring.
 
+![alt text](./figure_setup/mgep-openmc-modeling-1 (1).png)
